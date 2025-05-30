@@ -1,9 +1,9 @@
-## Hi there 👋
+## Olá, meu nome é Cristian Fernandes, sou analista de dados do Rio de Janeiro. 👋
 
-<!--
-**cfernandesrj/cfernandesrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Tecnologias dominadas:
+
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
